@@ -1,5 +1,4 @@
 ## DOMAIN TAKEOVER (seriesa)
-
-### YOVE
+## YOVE
 
 Demonstration of subdomain takeover
